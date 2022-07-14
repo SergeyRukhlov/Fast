@@ -1,0 +1,15 @@
+/Users/Sergey/Documents/Учеба С#/Fast/Fast1/bin/Debug/net6.0/Fast1
+/Users/Sergey/Documents/Учеба С#/Fast/Fast1/bin/Debug/net6.0/Fast1.deps.json
+/Users/Sergey/Documents/Учеба С#/Fast/Fast1/bin/Debug/net6.0/Fast1.runtimeconfig.json
+/Users/Sergey/Documents/Учеба С#/Fast/Fast1/bin/Debug/net6.0/Fast1.dll
+/Users/Sergey/Documents/Учеба С#/Fast/Fast1/bin/Debug/net6.0/Fast1.pdb
+/Users/Sergey/Documents/Учеба С#/Fast/Fast1/obj/Debug/net6.0/Fast1.csproj.AssemblyReference.cache
+/Users/Sergey/Documents/Учеба С#/Fast/Fast1/obj/Debug/net6.0/Fast1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Sergey/Documents/Учеба С#/Fast/Fast1/obj/Debug/net6.0/Fast1.AssemblyInfoInputs.cache
+/Users/Sergey/Documents/Учеба С#/Fast/Fast1/obj/Debug/net6.0/Fast1.AssemblyInfo.cs
+/Users/Sergey/Documents/Учеба С#/Fast/Fast1/obj/Debug/net6.0/Fast1.csproj.CoreCompileInputs.cache
+/Users/Sergey/Documents/Учеба С#/Fast/Fast1/obj/Debug/net6.0/Fast1.dll
+/Users/Sergey/Documents/Учеба С#/Fast/Fast1/obj/Debug/net6.0/refint/Fast1.dll
+/Users/Sergey/Documents/Учеба С#/Fast/Fast1/obj/Debug/net6.0/Fast1.pdb
+/Users/Sergey/Documents/Учеба С#/Fast/Fast1/obj/Debug/net6.0/Fast1.genruntimeconfig.cache
+/Users/Sergey/Documents/Учеба С#/Fast/Fast1/obj/Debug/net6.0/ref/Fast1.dll
